@@ -96,3 +96,11 @@
 **46- 3D Graphs**
 
 **47- Calendar GUI**
+
+**47- Pong Game using Kivy in Python**
+
+**47- Web browser Automation Using Selenium**
+
+**47- Text To Speech Using Python**
+
+**47- Login System Using Python Flask/Django Web Frameworks**
