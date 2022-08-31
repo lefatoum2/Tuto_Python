@@ -3,7 +3,7 @@
 
 ![img1](https://cdn1.edgedatg.com/aws/v2/abc/JimmyKimmelLive/person/412462/144e74102c1d5c1227682ed14c243b06/1600x640-Q90_144e74102c1d5c1227682ed14c243b06.jpg)
 **1- Horloge numérique :** créer une horloge avec la bibliothèque graphique Tkinter.
-**2- Digital Clock GUI
+**2- Digital Clock GUI.
 **3- Get Desktop Notifications with Python
 **4- Use Your Phone Camera for Computer Vision
 **5- Music Player GUI
