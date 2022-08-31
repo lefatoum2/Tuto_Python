@@ -2,23 +2,24 @@
 
 
 ![img1](https://cdn1.edgedatg.com/aws/v2/abc/JimmyKimmelLive/person/412462/144e74102c1d5c1227682ed14c243b06/1600x640-Q90_144e74102c1d5c1227682ed14c243b06.jpg)
+
 **1- Horloge numérique :** créer une horloge avec la bibliothèque graphique Tkinter.
 
-**2- Digital Clock GUI.
+**2- Digital Clock GUI.**
 
-**3- Get Desktop Notifications with Python
+**3- Get Desktop Notifications with Python**
 
-**4- Use Your Phone Camera for Computer Vision
-**5- Music Player GUI
-**6- Game of Life with Python
-**7- Extract Text from videos
-**8- Fidget Spinner Game
-**9- Spelling Correction with Python
-**10- Create Amazing Graphics with Python
-**11- Monty Hall Simulator
-**12- Video to Audio Converter
-**13- Tic Tac Toe GUI
-**14- Calculator GUI
+**4- Use Your Phone Camera for Computer Vision**
+**5- Music Player GUI**
+**6- Game of Life with Python**
+**7- Extract Text from videos**
+**8- Fidget Spinner Game**
+**9- Spelling Correction with Python**
+**10- Create Amazing Graphics with Python**
+**11- Monty Hall Simulator**
+**12- Video to Audio Converter**
+**13- Tic Tac Toe GUI**
+**14- Calculator GUI**
 **15- Number Guessing Game
 **16- Image Converter GUI
 **17- Weight Converter GUI
