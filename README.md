@@ -7,6 +7,7 @@
 **2- Digital Clock GUI.
 
 **3- Get Desktop Notifications with Python
+
 **4- Use Your Phone Camera for Computer Vision
 **5- Music Player GUI
 **6- Game of Life with Python
